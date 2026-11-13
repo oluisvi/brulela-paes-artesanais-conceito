@@ -5,3 +5,5 @@ Preparei uma prévia de vitrine para a Brulela com essa ideia: categorias de pro
 Você consegue dar uma olhada? Se fizer sentido, gostaria de conversar com quem cuida dessa parte para entender a rotina e ajustar a proposta junto com vocês.
 
 Prévia: https://oluisvi.github.io/brulela-paes-artesanais-conceito/
+
+Prancha mostrando a ideia no celular, tablet e notebook: https://oluisvi.github.io/brulela-paes-artesanais-conceito/arte/

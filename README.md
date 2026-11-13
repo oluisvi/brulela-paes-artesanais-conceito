@@ -13,5 +13,9 @@ Protótipo responsivo mobile-first para apresentar os pães e quitutes da Brulel
 
 ## Abrir
 
-Abra `index.html` localmente ou acesse o GitHub Pages quando o deploy for publicado.
+Prévia do site: https://oluisvi.github.io/brulela-paes-artesanais-conceito/
+
+Prancha responsiva (celular, tablet e notebook): https://oluisvi.github.io/brulela-paes-artesanais-conceito/arte/
+
+Abra `index.html` localmente ou acesse o GitHub Pages.
 
